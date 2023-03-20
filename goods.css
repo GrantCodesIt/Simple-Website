@@ -1,0 +1,22 @@
+.goods {
+display flex;
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+ text-align: center;
+ font-family: Arial;
+ text-size: 2em;
+ margin: auto;
+ padding: 10px 20px;
+}
+h1{ 
+ font-family: Helvetica;
+ background-color: red;
+ color:white;
+ padding-left:60px;
+}
+img{
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+magin:auto;
+width:15%;
+height: auto;
+padding:10 20px;
+}

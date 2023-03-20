@@ -1,0 +1,13 @@
+#gallery { display: grid;
+grid-template-columns: 640px 640px 640px;
+grid-template-rows: 426px 426px; }
+
+img { 	margin:auto;
+	width: 100%;
+	height: auto; }
+
+
+h1 { text-align: center;
+font-size: 300%;
+padding-bottom: 1em;
+text-shadow: 3px 3px 3px #E9FBFC; }
